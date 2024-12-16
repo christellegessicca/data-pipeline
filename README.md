@@ -25,7 +25,7 @@ You can set up your environment by following these steps.
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/data_pipeline.git
+   git clone https://github.com/christellegessicca/data_pipeline.git
    
 2. Create a Python virtual environment:
 
