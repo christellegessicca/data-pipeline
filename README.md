@@ -99,7 +99,7 @@ We welcome contributions to this project! To contribute:
 2. Clone your forked repository:
 bash
 Copy code
-git clone https://github.com/yourusername/data_pipeline.git
+git clone https://github.com/christellegessicca/data_pipeline.git
 
 4. Create a new branch:
 bash
