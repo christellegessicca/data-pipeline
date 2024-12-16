@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Note
 Starting from Airflow version 2.9, MWAA has open-sourced the original Docker image used in our production deployments. You can refer to our open-source image repository at https://github.com/aws/amazon-mwaa-docker-images to create a local environment identical to that of MWAA.
 You can also continue to use the MWAA Local Runner for testing and packaging requirements for all Airflow versions supported on MWAA.
@@ -210,3 +211,8 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
+=======
+# data_pipeline
+ETL (No warehouse)
+>>>>>>> b46c707aaafc748c1c5e5fd92c2bfb53d26a1051
+# data-pipeline
